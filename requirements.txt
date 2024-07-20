@@ -1,0 +1,17 @@
+tensorflow
+scikit-learn
+streamlit
+numpy
+pandas
+matplotlit
+seaborn
+scipy
+pytorch
+gradio
+joblib
+pickle
+Adafruit_DHT  # Library for DHT22 sensor
+smbus 
+board
+adafruit_dht
+adafruit_bno055
